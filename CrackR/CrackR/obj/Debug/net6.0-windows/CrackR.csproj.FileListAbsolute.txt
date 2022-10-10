@@ -1,0 +1,17 @@
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.exe
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.deps.json
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.runtimeconfig.json
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.dll
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.pdb
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.csproj.AssemblyReference.cache
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.csproj.GenerateResource.cache
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.AssemblyInfoInputs.cache
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.AssemblyInfo.cs
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.csproj.CoreCompileInputs.cache
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.dll
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\refint\CrackR.dll
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.pdb
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.genruntimeconfig.cache
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\ref\CrackR.dll
+C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.Home.resources
