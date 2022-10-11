@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELITEBOOK 840 G3\\source\\repos\\CrackR\\CrackR\\CrackR.csproj": {}
+    "X:\\Code\\CrackR\\CrackR\\CrackR\\CrackR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELITEBOOK 840 G3\\source\\repos\\CrackR\\CrackR\\CrackR.csproj": {
+    "X:\\Code\\CrackR\\CrackR\\CrackR\\CrackR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELITEBOOK 840 G3\\source\\repos\\CrackR\\CrackR\\CrackR.csproj",
+        "projectUniqueName": "X:\\Code\\CrackR\\CrackR\\CrackR\\CrackR.csproj",
         "projectName": "CrackR",
-        "projectPath": "C:\\Users\\ELITEBOOK 840 G3\\source\\repos\\CrackR\\CrackR\\CrackR.csproj",
+        "projectPath": "X:\\Code\\CrackR\\CrackR\\CrackR\\CrackR.csproj",
         "packagesPath": "C:\\Users\\ELITEBOOK 840 G3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELITEBOOK 840 G3\\source\\repos\\CrackR\\CrackR\\obj\\",
+        "outputPath": "X:\\Code\\CrackR\\CrackR\\CrackR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELITEBOOK 840 G3\\AppData\\Roaming\\NuGet\\NuGet.Config",
