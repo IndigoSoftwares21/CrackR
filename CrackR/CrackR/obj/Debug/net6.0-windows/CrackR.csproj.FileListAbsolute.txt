@@ -15,3 +15,20 @@ C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\Cr
 C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.genruntimeconfig.cache
 C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\ref\CrackR.dll
 C:\Users\ELITEBOOK 840 G3\source\repos\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.Home.resources
+X:\Code\CrackR\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.exe
+X:\Code\CrackR\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.deps.json
+X:\Code\CrackR\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.runtimeconfig.json
+X:\Code\CrackR\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.dll
+X:\Code\CrackR\CrackR\CrackR\bin\Debug\net6.0-windows\CrackR.pdb
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.csproj.AssemblyReference.cache
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.Home.resources
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.csproj.GenerateResource.cache
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.GeneratedMSBuildEditorConfig.editorconfig
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.AssemblyInfoInputs.cache
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.AssemblyInfo.cs
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.csproj.CoreCompileInputs.cache
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.dll
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\refint\CrackR.dll
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.pdb
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\CrackR.genruntimeconfig.cache
+X:\Code\CrackR\CrackR\CrackR\obj\Debug\net6.0-windows\ref\CrackR.dll
